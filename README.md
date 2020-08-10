@@ -5,3 +5,7 @@ Daha fazla bilgilendirme için bekleyiniz! Sadece 1 Haftada yapılmıştır ve Y
 # Dikkat , Kullanımsal Uyarı!
 
 Kaguwo's Old Network Türkçe hali henüz test sürecindedir. Bir hata ile karşılaşırsanız <code> contributing.md </code> alanına göz atın!
+
+# Style.css Dosyası Hakkında
+
+<code> style.css </code> Dosyasında yaptığın küçük 1 değişiklik Network'ün doğru çalışmasına engel olur.
