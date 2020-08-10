@@ -1,0 +1,333 @@
+tml, 
+body {
+    margin: 0; 
+    padding: 0;
+    color: rgba(5, 5, 5, 1);
+    font-family: 'Roboto', sans-serif;
+    align-items: center;
+    justify-items: center;
+}
+
+/* Media Queries */
+
+@media (prefers-color-scheme: dark) {
+    body {
+        color: rgba(244, 246, 255, 1);
+        background-color: rgba(5, 5, 5, 1);
+    }
+
+    a.github {
+        margin-right: 14px;
+        color: #777d88;
+    }
+
+    a.github:hover,  
+    a.github:focus,
+    a.github:active {
+        color: rgba(244, 246, 255, 1);
+        border-color: rgba(244, 246, 255, 1);
+    }
+
+    a.steam {
+        margin-left: 14px;
+        color: #777d88;
+    }
+
+    a.steam:hover,
+    a.steam:focus,
+    a.steam:active {
+        color: rgba(244, 246, 255, 1);
+        border-color: rgba(244, 246, 255, 1);
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    body {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 500px) { /* For Mobile Devices */
+    body {
+        font-size: 22px;
+        justify-content: center;
+    }
+
+    div.global {
+        text-align: center;
+        margin: 96px 0;
+    }
+
+    h3.welcome {
+        font-size: 52px;
+    }
+
+    p.details1 {
+        font-size: 24px;
+    }
+
+    p.details2 {
+        font-size: 14px;
+        font-style: italic;
+    }
+
+    div.countdown h1 {
+        font-size: 42px;
+    }
+
+    div.countdown p {
+        font-size: 48px;
+    }
+
+    footer {
+        text-align: center;
+        background: fixed;
+    }
+
+    footer p {
+        font-size: 8px;
+        margin: 35px 0;
+    }   
+}
+
+/* End of Media Queries */
+
+.global {
+    text-align: center;
+    margin: 128px 0;
+}
+
+.animate__pulse {
+    display: inline-block;
+    margin: 20px 0 20px;
+    border-radius: 50%;
+    width: 256px;
+
+    box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+    transform: scale(1);
+    animation: pulse 1.5s infinite;
+}
+
+@keyframes pulse {
+    0% {
+		transform: scale(0.95);
+		box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.7);
+	}
+
+	70% {
+		transform: scale(1);
+		box-shadow: 0 0 0 10px rgba(0, 0, 0, 0);
+	}
+
+	100% {
+		transform: scale(0.95);
+		box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+	}
+}
+
+.welcome {
+    font-size: 64px;
+    margin: 0 0 1px;
+}
+
+.details1 {
+    font-size: 24px;
+}
+
+.details1 a {
+    text-decoration: none;
+    color: #7289da;
+}
+
+.details1 a:hover {
+    color: #777d89;
+}
+
+.details2 {
+    font-size: 16px;
+}
+
+.projects {
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 50px;
+    justify-content: space-between;
+}
+
+.projects h3 {
+    font-size: 32px;
+}
+
+.projects button {
+    border: none;
+    color: black;
+    padding: 16px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 2px 4px 14px;
+    transition-duration: 0.4s;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.projects button:hover {
+    background-color: #3e3e3e;
+    color: white;
+}
+
+.project-context {
+    background-color: whitesmoke;
+    margin: 0 20px;
+    padding: 30px;
+    border-radius: 6px;
+    transform: translateY(-60px);
+    transition: 0.3s linear;
+}
+
+.project-context a {
+    font-size: 16px;
+    margin-bottom: 10px;
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+    background: fixed;
+}
+
+footer p {
+    font-size: 14px;
+    margin: 25px 0;
+}
+
+footer p a {
+    text-decoration: none;
+    color: #7289da;
+}
+
+footer p a:hover {
+    color: #5a5aff;
+}
+
+.social-medias {
+    position: relative;
+    text-align: center;
+    margin-bottom: 12px;
+    font-size: 44px;
+}
+
+.buttons {
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%,50%);
+}
+
+
+i {
+   width: 50px;
+   height: 45px;
+   -ms-transition: 0.4s ease-in-out;
+   -webkit-transition: 0.4s ease-in-out;
+   transition: 0.4s ease-in-out;
+}
+
+i:hover {
+    -ms-transform: rotate(360deg); /* IE 9 */
+    -webkit-transform: rotate(360deg); /* Chrome, Safari, Opera */
+    transform: rotate(360deg);
+}
+
+.twitter {
+    margin-right: 14px;
+    color: #777d88;
+}
+
+.twitter:hover,
+.twitter:focus,
+.twitter:active {
+    color: #1da1f2;
+    border-color: #1da1f2;
+}
+
+.github {
+    margin-right: 14px;
+    color: #777d88;
+}
+
+.github:hover,
+.github:focus,
+.github:active {
+    color: rgba(5, 5, 5, 1);
+    border-color: rgba(5, 5, 5, 1);
+}
+
+.yt {
+    color: #777d88;
+}
+
+.yt:hover,
+.yt:focus,
+.yt:active {
+    color: #ff0000;
+    border-color: #ff0000;
+}
+
+.ig {
+    margin-left: 14px;
+    color: #777d88;
+}
+
+.ig:hover,
+.ig:focus,
+.ig:active {
+    color: #c13584;
+    border-color: #c13584;
+}
+
+.steam {
+    margin-left: 14px;
+    color: #777d88;
+}
+
+.steam:hover,
+.steam:focus,
+.steam:active {
+    color: rgba(5, 5, 5, 1);
+    border-color: rgba(5, 5, 5, 1);
+}
+
+.reddit {
+    margin-left: 14px;
+    color: #777d88;
+}
+
+.reddit:hover {
+    color: #ff4500;
+    border-color: #ff4500;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.countdown {
+    text-align: center;
+    margin-top: 230px;
+}
+
+.countdown h1 {
+    font-size: 80px;
+}
+
+.countdown p {
+    font-size: 68px;
+    font-style: oblique;
+}
+
+.footer {
+    margin-top: 50px;
+}
