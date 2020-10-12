@@ -8,7 +8,6 @@ body {
     justify-items: center;
 }
 
-/* Media Queries */
 
 @media (prefers-color-scheme: dark) {
     body {
