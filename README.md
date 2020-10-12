@@ -2,7 +2,7 @@
 
 Temiz ve kullanışlı kodlara sahip Eski Network'ün Türkçe'ye çevirilmiş hali tam olarak karşınızda duruyor! Eğer bir portfolio'ya veya sabit bir sayfaya ihtiyacınız varsa Kaguwo's Network tam olarak sizin için!
 
-# 💁‍♂️ Peki sizi neler bekliyor olacak?!
+# 💁‍♂️ Peki sizi neler bekliyor olacak?
 
 İşte tam olarak burada sizi nelerin beklediğini görebilmeniz için harika bir liste hazırladık! İşte başlıyoruz...
 
