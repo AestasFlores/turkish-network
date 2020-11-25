@@ -20,6 +20,8 @@ Bize veya bu projeye katkı sağlamak istiyorsanız bu projeyi Forklayabilir vey
 - <a href="https://kaguwo.com/"> Bu Proje'nin Canlı Hali! </a>
 - <a href="https://github.com/KaguwoNetwork"> Geliştirici Topluluğumuz! </a>
 
+<img src="https://alfred.is-inside.me/n3m56an7.png">
+
 
 
 
