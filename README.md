@@ -1,3 +1,5 @@
+<img src="https://alfred.is-inside.me/n3m56an7.png">
+
 # 📝 Sabit ve Kullanışlı bir Portfolio Düşünün!
 
 Temiz ve kullanışlı kodlara sahip Eski Network'ün Türkçe'ye çevirilmiş hali tam olarak karşınızda duruyor! Eğer bir portfolio'ya veya sabit bir sayfaya ihtiyacınız varsa Kaguwo's Network tam olarak sizin için!
@@ -20,7 +22,7 @@ Bize veya bu projeye katkı sağlamak istiyorsanız bu projeyi Forklayabilir vey
 - <a href="https://kaguwo.com/"> Bu Proje'nin Canlı Hali! </a>
 - <a href="https://github.com/KaguwoNetwork"> Geliştirici Topluluğumuz! </a>
 
-<img src="https://alfred.is-inside.me/n3m56an7.png">
+
 
 
 
