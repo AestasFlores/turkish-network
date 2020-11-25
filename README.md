@@ -1,6 +1,6 @@
 <img src="https://alfred.is-inside.me/n3m56an7.png">
 
-# 📝 Sabit ve Kullanışlı bir Portfolio Düşünün!
+# 📝 Sabit ve Kullanışlı bir Portfolio Düşünün!?
 
 Temiz ve kullanışlı kodlara sahip Eski Network'ün Türkçe'ye çevirilmiş hali tam olarak karşınızda duruyor! Eğer bir portfolio'ya veya sabit bir sayfaya ihtiyacınız varsa Kaguwo's Network tam olarak sizin için!
 
