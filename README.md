@@ -15,7 +15,7 @@ Temiz ve kullanışlı kodlara sahip Eski Network'ün Türkçe'ye çevirilmiş h
 
 # 📩 Nasıl katkı sağlayabilirsiniz?
 
-Bize veya bu projeye katkı sağlamak istiyorsanız bu projeyi Forklayabilir veya Starlayabilirsiniz, eğer bu proje üzerinde çalışmak ve bu projeyi düzenlemek isterseniz Forkladığınız proje üzerinde çalışabilirsiniz..
+Bize veya bu projeye katkı sağlamak istiyorsanız bu projeyi Forklayabilir veya Starlayabilirsiniz, eğer bu proje üzerinde çalışmak ve bu projeyi düzenlemek isterseniz Forkladığınız proje üzerinde çalışabilirsiniz. Daha fazla bilgi için <a href="https://github.com/KaguwoNetwork/TurkishKaguwoNetwork/blob/master/contributing.md">bu makaleyi</a> okuyabilirsiniz.
 
 # 🙏 Ek "İlgili" Bağlantılar!
 
