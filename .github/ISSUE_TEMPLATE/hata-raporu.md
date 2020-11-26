@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Hataya ait kısa açıklama:**
-Lütfen eklemek istediğiniz bilgiyi bu metni silip, bu alana yazın.
+Lütfen eklemek istediğiniz bilgiyi bu metni silip, bu alana yazın!
 
 **Hatayı nasıl bulabiliri?**
 Bu adımları uygularsanız hatayı bulabilirsiniz:
