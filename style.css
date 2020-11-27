@@ -8,6 +8,7 @@ body {
     justify-items: center;
 }
 
+/* MEDYA TERCIHLERI */
 
 @media (prefers-color-scheme: dark) {
     body {
@@ -15,29 +16,6 @@ body {
         background-color: rgba(5, 5, 5, 1);
     }
 
-    a.github {
-        margin-right: 14px;
-        color: #777d88;
-    }
-
-    a.github:hover,  
-    a.github:focus,
-    a.github:active {
-        color: rgba(244, 246, 255, 1);
-        border-color: rgba(244, 246, 255, 1);
-    }
-
-    a.steam {
-        margin-left: 14px;
-        color: #777d88;
-    }
-
-    a.steam:hover,
-    a.steam:focus,
-    a.steam:active {
-        color: rgba(244, 246, 255, 1);
-        border-color: rgba(244, 246, 255, 1);
-    }
 }
 
 @media only screen and (max-width: 1000px) {
@@ -53,6 +31,8 @@ body {
         font-size: 22px;
         justify-content: center;
     }
+
+/* YAZI SEMATIGI */
 
     div.global {
         text-align: center;
@@ -91,7 +71,7 @@ body {
     }   
 }
 
-/* End of Media Queries */
+/* MEDYA SORUGULARININ SONLANDIĞI ALAN */
 
 .global {
     text-align: center;
@@ -126,6 +106,8 @@ body {
 	}
 }
 
+/* DETAY SEMATIGI */
+
 .welcome {
     font-size: 64px;
     margin: 0 0 1px;
@@ -159,6 +141,8 @@ body {
     font-size: 32px;
 }
 
+/* ESKI PROJE BUTONLARI */
+
 .projects button {
     border: none;
     color: black;
@@ -191,6 +175,8 @@ body {
     margin-bottom: 10px;
     text-decoration: none;
 }
+
+/* FOOTER ALANI EKLERI */
 
 footer {
     text-align: center;
@@ -239,6 +225,8 @@ i:hover {
     -webkit-transform: rotate(360deg); /* Chrome, Safari, Opera */
     transform: rotate(360deg);
 }
+
+/* SOSYAL MEDYA BUTON VE IKONLARI */
 
 .twitter {
     margin-right: 14px;
@@ -312,6 +300,8 @@ i:hover {
 * {
     box-sizing: border-box;
 }
+
+/* GERISAYIM SAYFASI EK CSS KODLARI */
 
 .countdown {
     text-align: center;
