@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Özellik Talebi bir hatadan mı kaynaklı?.**
-Eğer bir hatadan kaynaklı talep açıyorsanız bu hatayaı, Hata Raporu şeklinde bize bildirin. [...]
+Eğer bir hatadan kaynaklı talep açıyorsanız bu hatayaı, Hata Raporu şeklinde bize bildirin.. [...]
 
 **Özellik Talebinizi basit çaplı olarak anlatın!**
 Buraya özellik talebiniz ile ilgili kısa ve öz bazı bilgileri ekleyin.
