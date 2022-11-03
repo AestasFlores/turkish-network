@@ -1,4 +1,4 @@
-<img src="https://alfred.is-inside.me/n3m56an7.png">
+> **Warning** Discontinued project.
 
 # 📝 Sabit ve Kullanışlı bir Portfolio Düşünün!?
 
